@@ -5,7 +5,6 @@ import java.util.Arrays;
 /**
  * 7. Реализуйте алгоритм сортировки пузырьком.
  */
-
 public class Prog07BubbleSort {
     public static void main(String[] args) {
         int[] array = {1, 10, 35, 49, 12, 7};

@@ -7,7 +7,6 @@ import java.util.Arrays;
  * 	Отсортируйте массив.
  * 	Результат выведите на консоль.
  */
-
 public class Prog06ArrayOfNames {
     public static void main(String[] args) {
 
