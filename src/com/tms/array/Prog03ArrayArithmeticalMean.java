@@ -8,7 +8,6 @@ import java.util.Arrays;
  * 	Посчитайте среднее арифметическое элементов каждого массива и сообщите, для какого из массивов это значение
  * 	оказалось больше (либо сообщите, что их средние арифметические равны)
  */
-
 public class Prog03ArrayArithmeticalMean {
     public static void main(String[] args) {
         int[] array1 = {0, 8, 0, 8, 5};
